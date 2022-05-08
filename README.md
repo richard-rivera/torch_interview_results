@@ -16,3 +16,13 @@ Question 1:
 
   ![image](https://user-images.githubusercontent.com/50384121/167302416-3f8a5ae2-55d7-4cbf-bb09-94c31e5d4dc4.png)
 
+Question 3:
+* SQL Code:
+
+  ![image](https://user-images.githubusercontent.com/50384121/167302645-f0b2432f-40fa-4365-b1b7-0b81defa8b5d.png)
+
+
+* Results:
+
+  ![image](https://user-images.githubusercontent.com/50384121/167302632-80b65694-8e1c-4174-8a0b-d2c2d943d814.png)
+
