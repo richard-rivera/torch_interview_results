@@ -2,10 +2,10 @@
 
 Question 1:
 * SQL Code:
-* 
+
 ![image](https://user-images.githubusercontent.com/50384121/167302319-17f22772-acfd-4873-b354-65abae3eac4b.png)
 * Results:
-* 
+ 
 ![image](https://user-images.githubusercontent.com/50384121/167302511-3275a7db-e02b-427a-8e96-192a8f8a3e6b.png)
 
  Question 2:
