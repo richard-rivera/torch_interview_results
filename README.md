@@ -10,9 +10,9 @@ Question 1:
 
  Question 2:
 * SQL Code: 
-* 
+
   ![image](https://user-images.githubusercontent.com/50384121/167302345-32a8a103-0259-4c77-8954-b51e7bc74813.png)
 * Results:
-* 
- ![image](https://user-images.githubusercontent.com/50384121/167302416-3f8a5ae2-55d7-4cbf-bb09-94c31e5d4dc4.png)
+
+  ![image](https://user-images.githubusercontent.com/50384121/167302416-3f8a5ae2-55d7-4cbf-bb09-94c31e5d4dc4.png)
 
