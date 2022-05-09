@@ -8,8 +8,8 @@ Question 1:
  
   ![image](https://user-images.githubusercontent.com/50384121/167302511-3275a7db-e02b-427a-8e96-192a8f8a3e6b.png)
 
-* Overview:
-  * Metric shows the total number of tests ordered as-of yesterday (Dynamically generated).
+* Overview and Insights:
+  * Metric shows the total number of tests ordered as-of yesterday (Dynamically generated). Metric is underreported due to some states not reporting inconclusive and negative results.
 
  Question 2:
 * SQL Code: 
@@ -18,6 +18,8 @@ Question 1:
 * Results:
 
   ![image](https://user-images.githubusercontent.com/50384121/167302416-3f8a5ae2-55d7-4cbf-bb09-94c31e5d4dc4.png)
+  
+* Overview and Insights:
 
 Question 3:
 * SQL Code:
@@ -29,3 +31,5 @@ Question 3:
 
   ![image](https://user-images.githubusercontent.com/50384121/167302632-80b65694-8e1c-4174-8a0b-d2c2d943d814.png)
 
+* Overview and Insights:
+  *  Table presents the top 10 states with positive rate results. The first state listed could possibly have a true late lower than 1, since it appears that they don't report negative/inconclusive results.
