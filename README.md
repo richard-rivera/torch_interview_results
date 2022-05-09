@@ -20,7 +20,8 @@ Question 1:
   ![image](https://user-images.githubusercontent.com/50384121/167302416-3f8a5ae2-55d7-4cbf-bb09-94c31e5d4dc4.png)
   
 * Overview and Insights:
-
+  *  Results detail the moving 7-day average over the last 30 days. This can help keep track of trends over the last 30 days and from the results it seems positive results are trending up.
+ 
 Question 3:
 * SQL Code:
 
