@@ -8,6 +8,9 @@ Question 1:
  
   ![image](https://user-images.githubusercontent.com/50384121/167302511-3275a7db-e02b-427a-8e96-192a8f8a3e6b.png)
 
+* Overview:
+  * Metric shows the total number of tests ordered as-of yesterday (Dynamically generated).
+
  Question 2:
 * SQL Code: 
 
